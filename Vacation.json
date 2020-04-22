@@ -1,0 +1,43 @@
+func DummypopulateArray() {
+          let vp1 = Vaca()
+          vp1.PlaceName = "California"
+          vp1.vacaDescription = "Description - California is one of the biggest states in the US and has tons to do"
+          vp1.anyActivity = "Activities -  Yes, there are plenty of activites to do in California"
+          vp1.seeThings = "Sight Seeing -  A lot of great sight seeing spots"
+          vp1.placeWeather = "Weather - Warm"
+          vp1.VacaImageName = "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
+          vacationArray.insert(vp1, at:0)
+          
+          let vp2 = Vaca()
+          vp2.PlaceName = "Florida"
+          vp2.vacaDescription = "Description - Canada has some of the best maple syrup in the world! You can also view the Niagara Falls."
+          vp2.anyActivity = "Activties - Yes, there are plenty of activites to do in Canada"
+          vp2.seeThings = "Sight Seeing - A lot to view in Canada"
+          vp2.placeWeather = "Weather - Depends on season"
+          vp2.VacaImageName = "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
+          vacationArray.append(vp2)
+          
+          let vp3 = Vaca()
+          vp3.PlaceName = "Georgia"
+          vp3.vacaDescription = "Description - Atlanta has some amazing museums"
+          vp3.anyActivity = "Activities - Tons of activties to do in Atlanta!"
+          vp3.seeThings = "Sight seeing - No"
+          vp3.placeWeather = "Weather - Depends on season"
+          vp3.VacaImageName = "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
+          vacationArray.append(vp3)
+          
+          let vp4 = Vaca()
+          vp4.PlaceName = "Nevada"
+          vp4.vacaDescription = "Description - Las Vegas has a lot of casinos, so get your pockets ready!"
+          vp4.anyActivity = "Activties - Yes, there are plenty of activites to do besides gambling"
+          vp4.seeThings = "Sight seeing - Yes"
+          vp4.placeWeather = "Weather - Warm"
+          vp4.VacaImageName = "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
+          vacationArray.append(vp4)
+      
+          
+          
+      }
+
+
+}
