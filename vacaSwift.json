@@ -1,0 +1,20 @@
+//
+//  File.swift
+//  VacaGenerator2
+//
+//  Created by Al Rasheed on 4/21/20.
+//  Copyright © 2020 Ali Vaca. All rights reserved.
+//
+
+import Foundation
+ class Vaca {
+        var PlaceName:String = ""
+        var anyActivity:String = ""
+        var vacaDescription = ""
+        var seeThings:String = ""
+        var placeWeather:String = ""
+        var VacaImageName:String = ""
+        
+    
+    
+}
