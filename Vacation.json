@@ -1,34 +1,35 @@
 {
-          "VacationSpots" : {
-                    
-          "PlaceName": "California",
-          "vacaDescription" : "California is one of the biggest states in the US and has tons to do",
-          "anyActivity" : "Yes, there are plenty of activites to do in California",
-          "seeThings" : "A lot of great sight seeing spots",
-          "placeWeather" : "Warm",
-          "VacaImageName" : "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
-          },
-            
-          "PlaceName": "Florida",
-          "vacaDescription" : "California is one of the biggest states in the US and has tons to do",
-          "anyActivity" : "Yes, there are plenty of activites to do in California",
-          "seeThings" : "A lot of great sight seeing spots",
-          "placeWeather" : "Warm",
-          "VacaImageName" : "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
-          },
-       {
-          "PlaceName": "Nevada",
-          "vacaDescription" : "California is one of the biggest states in the US and has tons to do",
-          "anyActivity" : "Yes, there are plenty of activites to do in California",
-          "seeThings" : "A lot of great sight seeing spots",
-          "placeWeather" : "Warm",
-          "VacaImageName" : "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
-          },
-       {
-          "PlaceName": "Georgia",
-          "vacaDescription" : "California is one of the biggest states in the US and has tons to do",
-          "anyActivity" : "Yes, there are plenty of activites to do in California",
-          "seeThings" : "A lot of great sight seeing spots",
-          "placeWeather" : "Warm",
-          "VacaImageName" : "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
-          },
+	"VacationSpots": [{
+			"PlaceName": "California",
+			"vacaDescription": "California is one of the biggest states in the US and has tons to do",
+			"anyActivity": "Yes, there are plenty of activites to do in California",
+			"seeThings": "A lot of great sight seeing spots",
+			"placeWeather": "Warm",
+			"VacaImageName": "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
+		},
+		{
+			"PlaceName": "Florida",
+			"vacaDescription": "California is one of the biggest states in the US and has tons to do",
+			"anyActivity": "Yes, there are plenty of activites to do in California",
+			"seeThings": "A lot of great sight seeing spots",
+			"placeWeather": "Warm",
+			"VacaImageName": "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
+		},
+		{
+			"PlaceName": "Nevada",
+			"vacaDescription": "California is one of the biggest states in the US and has tons to do",
+			"anyActivity": "Yes, there are plenty of activites to do in California",
+			"seeThings": "A lot of great sight seeing spots",
+			"placeWeather": "Warm",
+			"VacaImageName": "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
+		},
+		{
+			"PlaceName": "Georgia",
+			"vacaDescription": "California is one of the biggest states in the US and has tons to do",
+			"anyActivity": "Yes, there are plenty of activites to do in California",
+			"seeThings": "A lot of great sight seeing spots",
+			"placeWeather": "Warm",
+			"VacaImageName": "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
+		}
+	]
+}
