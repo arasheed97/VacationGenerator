@@ -9,27 +9,27 @@
 		},
 		{
 			"PlaceName": "Florida",
-			"vacaDescription": "California is one of the biggest states in the US and has tons to do",
-			"anyActivity": "Yes, there are plenty of activites to do in California",
-			"seeThings": "A lot of great sight seeing spots",
+			"vacaDescription": "Florida has some of the best attractions in the world!",
+			"anyActivity": "Yes, there are plenty of activites to do in Florida",
+			"seeThings": "A few sight seeing spots",
 			"placeWeather": "Warm",
-			"VacaImageName": "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
+			"VacaImageName": "https://odis.homeaway.com/odis/destination/4eaa0b03-e458-4045-bdaf-6411ccd08994.hw5.jpg"
 		},
 		{
 			"PlaceName": "Nevada",
-			"vacaDescription": "California is one of the biggest states in the US and has tons to do",
-			"anyActivity": "Yes, there are plenty of activites to do in California",
+			"vacaDescription": "Nevada has plenty of casinos. Get your money ready!",
+			"anyActivity": "Yes, there are plenty of activites to do in Nevada besides gambling",
 			"seeThings": "A lot of great sight seeing spots",
 			"placeWeather": "Warm",
-			"VacaImageName": "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
+			"VacaImageName": "https://images.carriercms.com/image/upload/w_500,h_400,c_fill,g_center,q_auto,f_auto/v1546876330/carrier/commercial-hvac/locations/carrier-local-service-las-vegas-nevada.jpg"
 		},
 		{
 			"PlaceName": "Georgia",
-			"vacaDescription": "California is one of the biggest states in the US and has tons to do",
-			"anyActivity": "Yes, there are plenty of activites to do in California",
-			"seeThings": "A lot of great sight seeing spots",
+			"vacaDescription": "Georgia has plenty of museums to visit",
+			"anyActivity": "Yes, there are plenty of activites to do in Georgia",
+			"seeThings": "Very few sight seeing spots",
 			"placeWeather": "Warm",
-			"VacaImageName": "https://cdn.shopify.com/s/files/1/0012/4695/3536/files/California_1_2048x.jpg?v=1548713962"
+			"VacaImageName": "https://www.conferencetech.com/wp-content/uploads/2019/11/atlanta.jpg"
 		}
 	]
 }
